@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FitnessCenter/1.0.0": {
+        "dependencies": {
+          "FitnessCenterLib": "1.0.0"
+        },
+        "runtime": {
+          "FitnessCenter.dll": {}
+        }
+      },
+      "FitnessCenterLib/1.0.0": {
+        "runtime": {
+          "FitnessCenterLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FitnessCenter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FitnessCenterLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

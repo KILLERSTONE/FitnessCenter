@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9m5pcwvpCOlRo0GdKtftrqV7oUGf0WIiqRWIl9D3Y5OLEGplsPnsz5Qa/MvOXHehZNi+PXTBuXng3BL0zithxQ==",
+  "dgSpecHash": "yC27yxgr77UT9VA/AcdfXpoRzSmWfGtx+FY1nq8T5+mtxbC19Th9fid4g5Y7oTe4Fch43QYNPOhynTHQgxa0cQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\prien\\Desktop\\FILES OF ASSIGNMENT AND FAT\\dotnet\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\prien\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\prien\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\prien\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\prien\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using FitnessCenter.Admin;
-using FitnessCenter.Model;
-using FitnessCenter.Model.Class;
+
+using FitnessCenterLib.Admin;
+using FitnessCenterLib.Interface;
+using FitnessCenterLib.Models.Class;
 
 IServices services = new Services();
 

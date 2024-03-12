@@ -1,0 +1,12 @@
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\bin\Debug\net7.0\FitnessCenterLib.deps.json
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\bin\Debug\net7.0\FitnessCenterLib.dll
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\bin\Debug\net7.0\FitnessCenterLib.pdb
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\FitnessCenterLib.csproj.AssemblyReference.cache
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\FitnessCenterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\FitnessCenterLib.AssemblyInfoInputs.cache
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\FitnessCenterLib.AssemblyInfo.cs
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\FitnessCenterLib.csproj.CoreCompileInputs.cache
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\FitnessCenterLib.dll
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\refint\FitnessCenterLib.dll
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\FitnessCenterLib.pdb
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenterLib\obj\Debug\net7.0\ref\FitnessCenterLib.dll
