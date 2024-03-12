@@ -12,3 +12,4 @@ C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessC
 C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenter\obj\Debug\net8.0\FitnessCenter.pdb
 C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenter\obj\Debug\net8.0\FitnessCenter.genruntimeconfig.cache
 C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenter\obj\Debug\net8.0\ref\FitnessCenter.dll
+C:\Users\prien\Desktop\FILES OF ASSIGNMENT AND FAT\dotnet\FitnessCenter\FitnessCenter\obj\Debug\net8.0\FitnessCenter.sourcelink.json

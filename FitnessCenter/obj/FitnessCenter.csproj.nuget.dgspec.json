@@ -14,7 +14,8 @@
         "outputPath": "C:\\Users\\prien\\Desktop\\FILES OF ASSIGNMENT AND FAT\\dotnet\\FitnessCenter\\FitnessCenter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\prien\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\prien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

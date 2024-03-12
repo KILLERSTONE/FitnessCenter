@@ -1,6 +1,6 @@
 ﻿namespace FitnessCenter.Model.Class;
 
-public abstract class addressAbsc: IAddress
+public abstract class addressAbsc : IAddress
 {
     public addressAbsc(int doorNo, string streetName, string area, string city, int pincode)
     {
@@ -13,8 +13,10 @@ public abstract class addressAbsc: IAddress
 
     public string printAddress()
     {
-        return ("DoorNo: " + doorNo + ", Street Name: " + streetName + ", Area: " + area + ", City: " + city + ", Pincode: " + pincode);
+        return "DoorNo: " + doorNo + ", Street Name: " + streetName + ", Area: " + area + ", City: " + city +
+               ", Pincode: " + pincode;
     }
+
     public int doorNo { get; set; }
     public string streetName { get; set; }
     public string area { get; set; }
